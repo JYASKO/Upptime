@@ -22,19 +22,19 @@
     "url": "https://stats.QuickHost.dk",
     "icon": "https://favicons.githubusercontent.com/stats.quickhost.dk",
     "slug": "quick-host-dk-stats",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 485,
-    "timeWeek": 535,
-    "timeMonth": 555,
-    "timeYear": 552,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 551,
+    "timeDay": 492,
+    "timeWeek": 532,
+    "timeMonth": 554,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 21
     }
   },
   {
