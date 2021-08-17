@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 714,
-    "timeWeek": 774,
-    "timeMonth": 801,
-    "timeYear": 768,
+    "time": 769,
+    "timeDay": 904,
+    "timeWeek": 804,
+    "timeMonth": 805,
+    "timeYear": 769,
     "dailyMinutesDown": {}
   },
   {
@@ -24,14 +24,14 @@
     "slug": "quick-host-dk-stats",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 551,
-    "timeDay": 479,
-    "timeWeek": 527,
-    "timeMonth": 539,
+    "timeDay": 597,
+    "timeWeek": 534,
+    "timeMonth": 542,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2021-08-15": 21
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 557,
-    "timeDay": 518,
-    "timeWeek": 533,
-    "timeMonth": 534,
+    "timeDay": 532,
+    "timeWeek": 531,
+    "timeMonth": 533,
     "timeYear": 557,
     "dailyMinutesDown": {}
   }
