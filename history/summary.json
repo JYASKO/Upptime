@@ -4,9 +4,9 @@
     "url": "https://QuickHost.dk",
     "icon": "https://favicons.githubusercontent.com/quickhost.dk",
     "slug": "quick-host-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 888,
     "timeMonth": 878,
     "timeYear": 797,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 0
+    }
   },
   {
     "name": "QuickHost.dk Stats",
